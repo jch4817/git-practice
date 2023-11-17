@@ -12,3 +12,6 @@ git을 사용하는 연습을 해봅시다.
 `git add`
 
 `git commit -m "message"`
+
+## 추가 변경사항 2
+`git log`
